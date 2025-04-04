@@ -1,0 +1,24 @@
+{
+  "title": "NFL Game Weather Data",
+  "description": "This CSV file contains weather conditions for NFL games, including temperature, wind chill, humidity, wind speed, and more, along with final scores for both home and away teams.",
+  "creator": "NFLsavant.com",
+  "date": "2013",
+  "version": "v1.0",
+  "format": "CSV",
+  "columns": [
+    "id",
+    "home_team",
+    "home_score",
+    "away_team",
+    "away_score",
+    "temperature",
+    "wind_chill",
+    "humidity",
+    "wind_mph",
+    "weather",
+    "date"
+  ],
+  "source": "Official NFL game records and weather data from NFLsavant",
+  "units": "Temperature in Fahrenheit (°F), wind speed in miles per hour (mph), etc.",
+  "notes": "Data reflects weather conditions at the start of each game. Scores represent final tallies."
+}
