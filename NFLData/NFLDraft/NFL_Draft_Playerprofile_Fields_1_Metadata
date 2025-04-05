@@ -1,0 +1,16 @@
+{
+  "title": "NFL Draft Player Profile Infographic",
+  "description": "An infographic featuring a quarterback prospect. It includes personal details (such as height, weight, and class), a line chart of game-by-game grades, and short text summaries of performance and background.",
+  "creator": "Pro Football Focus",
+  "date_created": "2021", 
+  "format": "PNG",
+  "text_in_image": {
+    "player_name": "Justin Fields",
+    "position": "Quarterback (QB)",
+    "listed_height": "6'3\"",
+    "listed_weight": "225 lbs",
+    "year": "Junior",
+    "headline_stats": [
+      "Game-by-game grades chart for 2020 season",
+      "Career passing yards, touchdowns, interceptions" ],
+}
