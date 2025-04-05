@@ -1,0 +1,16 @@
+{
+  "title": "NFL Draft Player Profile Infographic (Part 2)",
+  "description": "A continuation of Justin Fields's draft profile, highlighting his pros and cons, advanced performance metrics, and a final summary of his NFL projection.",
+  "creator": "Pro Football Focus",
+  "date_created": "2021",
+  "format": "PNG",
+  "text_in_image": {
+    "player_name": "Justin Fields",
+    "position": "Quarterback (QB)",
+    "sections": [
+      "Pros and cons overview",
+      "Advanced metrics comparison (passing grade, intermediate grade, red zone grade, no pressure grade)",
+      "Final 'bottom line' summary statement",
+      "NFL Draft projection: Top-5" ]
+  },
+}
